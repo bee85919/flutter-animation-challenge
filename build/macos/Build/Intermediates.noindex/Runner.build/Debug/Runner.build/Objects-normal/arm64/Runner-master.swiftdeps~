@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "98e7e9803b0f4ac9121a90a58382a52265c36434d9a42a3b8fa58282a4289cae"
+build_start_time: [1704811642, 445220000]
+build_end_time: [1704811642, 476081000]
+inputs:
+  "/Users/b06/Desktop/nomad-coders/flutter-animation-challenge/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1704811632, 303171844]
+  "/Users/b06/Desktop/nomad-coders/flutter-animation-challenge/macos/Runner/AppDelegate.swift": !private [1704778151, 0]
+  "/Users/b06/Desktop/nomad-coders/flutter-animation-challenge/macos/Runner/MainFlutterWindow.swift": !private [1704778151, 0]
